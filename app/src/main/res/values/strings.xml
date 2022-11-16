@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SUPERHEROES</string>
+
+
+    <string name="superman">Superman possesses the powers of flight, superhuman
+        strength, x-ray vision, heat vision, cold breath, super-speed, enhanced hearing,
+        and nigh-invulnerability. While Superman is immensely strong both in terms of
+        muscle power and ability to take physical punishment, he is not all-powerful.
+    </string>
+
+
+    <string name="batman">Genius-level intellect Expert detective Master martial
+        artist and hand-to-hand combatant Master tactician,
+        strategist, and field commander Peak human physical
+        and mental condition Utilizes high-tech equipment and weapons
+    </string>
+
+
+    <string name="spiderman">Spider-Mans Powers and Abilities: Superhuman strength, agility,
+        endurance, ability to stick to and climb walls and other surfaces,
+        uses self-designed web-shooters allowing him to fire and swing from
+        sticky webs, special "Spider-Sense" warns of incoming danger,
+        genius intellect specializing in chemistry and invention.
+    </string>
+
+
+    <string name="hulk">During the experimental detonation of a gamma bomb,
+        scientist Robert Bruce Banner saves teenager Rick Jones who has
+        driven onto the testing field; Banner pushes Jones into a trench
+        to save him, but is hit with the blast, absorbing massive amounts
+        of gamma radiation. He awakens later seemingly unscathed, but
+        that night transforms into a lumbering grey form.
+        A pursuing soldier dubs the creature a "hulk".
+    </string>
+
+
+    <string name="flash">Because he is a speedster, his power
+        consists mainly of superhuman speed. Various other effects
+        are also attributed to his ability to control the slowness
+        of molecular vibrations, including his ability to vibrate
+        at speed to pass through objects.
+    </string>
+    <string name="rocket">Master tactician and field commander
+        Skilled marksman and hand-to-hand combatant Genius-level
+        intellect Accomplished starship aviator Normal-physical
+        attributes of an Earth raccoon
+
+    </string>
+    <string name="groot">Groots abilities are all-natural and stem
+        from the dendronic wood that makes up his entire body.
+        The extraterrestrial bark he was born with makes him
+        invulnerable to most projectiles and even fire.
+        He can control all plant life via psychokinesis,
+        absorbing it into his body and making himself stronger.
+    </string>
+    <string name="ironman">Genius level intellect Proficient
+        scientist and engineer Powered armor suit: Superhuman
+        strength, speed, durability, agility, reflexes,
+        and senses Supersonic flight Energy repulsor and missile
+        projection Regenerative life support
+    </string>
+</resources>
